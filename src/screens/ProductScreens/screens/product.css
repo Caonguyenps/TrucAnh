@@ -118,7 +118,7 @@
 }
 .product-img-name-1 {
   height: 330px;
-  width: 330px;
+  width: 280px;
   border: 2px solid #08999c;
   border-radius: 10px;
   margin-top: 20px;
@@ -141,7 +141,7 @@
   border-radius: 5px;
   margin-left: 12px;
   height: 35px;
-  width: 300px;
+  width: 253px;
   text-align: center;
 }
 .product-name-name:hover {

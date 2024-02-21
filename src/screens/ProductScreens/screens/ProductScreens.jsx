@@ -12,7 +12,7 @@ export default function ProductScreens() {
   const history = useHistory();
   const [listsProduct, setListsProduct] = useState(product.listsproduct2);
   const [listsCategory, setListsCategory] = useState([
-    { name: "Giá cả", id: 1 },
+    { name: "Sản phẩm được bán chạy", id: 1 },
     { name: "Thức ăn bổ sung", id: 2 },
     { name: "Khoáng chất, dinh dưỡng", id: 3 },
     { name: "Xử lý môi trường", id: 4 },
@@ -57,7 +57,7 @@ export default function ProductScreens() {
   };
 
   return (
-    <div className="product-product mt-4">
+    <div className="product-product mt-3">
       <div className="wrap-body">
         <div className="row">
           <div className="col-3">

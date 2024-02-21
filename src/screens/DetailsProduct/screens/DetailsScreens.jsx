@@ -56,21 +56,21 @@ export default function DetailsScreens(props) {
               <span>{details.name}</span>
             </div>
             <div>
-              <div>
-                <span>Thanh phan</span>
+              <div className="title-details">
+                <span>Thành phần:</span>
               </div>
 
               <div>{showElement}</div>
             </div>
             <div>
-              <div>
-                <span>Cong dung</span>
+              <div className="title-details">
+                <span>Công dụng:</span>
               </div>
               <div>{details.uses}</div>
             </div>
             <div>
-              <div>
-                <span>lieu luong</span>
+              <div className="title-details">
+                <span>Liều lượng:</span>
               </div>
               <div>
                 <div> {showAmount}</div>
@@ -79,7 +79,7 @@ export default function DetailsScreens(props) {
           </div>
         </div>
       ) : (
-        <div className="404-error">
+        <div className="erdetail">
           <span>404 ERROR</span>
         </div>
       )}

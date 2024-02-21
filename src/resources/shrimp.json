@@ -1,22 +1,39 @@
 {
   "listsshrimp": [
     {
-      "thumbnail": "https://dacsanvungbien.com/wp-content/uploads/2020/04/tom-su-loai-20-con-kg.jpg",
-      "image": "https://cdn.tgdd.vn/2021/09/content/unnamed(5)-800x500.jpg",
-      "name": "Tôm sú - 98 vnđ/con",
-      "element": ["Protein thô", "Bacillus subtilis"],
+      "thumbnail": "https://cagiongtruongphat.com/FileStorage/Product/Image/tom-su-bo-me.jpg",
+      "image": "https://giongtom.com/wp-content/uploads/2022/01/tom-su-gia-hoa-moana-001.jpg",
+      "name": "Tôm sú Post 15 sạch bệnh",
+      "element": [
+        "Giống tôm thẻ chân trắng PL12 Nam Miền Trung.",
+        "Bóng sạch, đều kích cở.",
+        "Đường ruột: To, thẳng, đều",
+        "Gan tụy: Màu nâu, sẩm, to đều",
+        "Sốc độ mặn: Sau khi sốc chết dưới 10%",
+        "Giá:................161đ/con."
+      ],
       "id": "001"
+    },
+    {
+      "thumbnail": "https://tepbac.com/upload/news/ge_image/2023/03/tom-the (6)_1679025621.jpg",
+      "image": "https://nongnghiep.farmvina.com/wp-content/uploads/2018/02/gia-tom-the-chan-trang.jpg",
+      "name": "Tôm thẻ (80con/kg)",
+      "element": [
+        "Tôm thẻ chân trắng (tên khoa học: Litopenaeus vannamei).",
+        "Có thể nuôi với mật độ từ 50 - 80 con/m2.",
+        "Có thể thích nghi nhiều loại môi trường nuôi, sinh trưởng nhanh.",
+        "Có thể lớn tới 15 g trong giai đoạn 90 - 120 ngày.",
+        "Thích hợp ở nhiệt độ 25 - 32°C, Độ mặn nước biển 28 - 34‰.",
+        "PH từ 7,7 - 8,3, tuy nhiên chúng có thể sống được ở nhiệt độ 12 - 28°C."
+      ],
+      "id": "002"
     },
     {
       "thumbnail": "https://dacsanvungbien.com/wp-content/uploads/2020/04/tom-su-loai-20-con-kg.jpg",
       "image": "https://bizweb.dktcdn.net/100/441/262/products/yucca-max.jpg?v=1640940996310",
       "name": "Tôm hùm - 100 vnđ/con",
       "element": ["Protein thô", "Bacillus subtilis"],
-      "id": "002"
-    },
-    {
-      "image": "https://haisanthanglong.com/thumbs/540x540x1/upload/product/tom-su-bien-4311.jpg",
-      "name": "Tôm hùm - 100 vnđ/con"
+      "id": "003"
     },
     {
       "image": "https://tepbac.com/upload/species/ge_image/2021/06/tom-su-loai-20-con-tai-ao_1622970999.jpg",

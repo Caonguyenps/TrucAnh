@@ -21,6 +21,9 @@ export default function IntroduceScreens() {
     <div>
       <BannerComponents banner={BannerNews} title="GIOI THIEU" />
       <div className="wrap-body">
+        <div className="news-title-top">
+          <span>Mô hình & Phát triển</span>
+        </div>
         <div className="row">{showListsIntroduce}</div>
       </div>
       <div className="wrap-btn-intro">

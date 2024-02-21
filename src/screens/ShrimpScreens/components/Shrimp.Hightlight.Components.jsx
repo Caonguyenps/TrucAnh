@@ -1,6 +1,7 @@
 import React from "react";
-import Logo26 from "../../../assets/image/26.png";
-import Logo27 from "../../../assets/image/27.png";
+import "./shrimp.css";
+import Logo26 from "../../../assets/image/tomgiong.jpg";
+import Logo27 from "../../../assets/image/tomgiong1.jpg";
 
 export default function ShrimpHightlightComponents() {
   return (
@@ -10,16 +11,16 @@ export default function ShrimpHightlightComponents() {
       </div>
       <div className="shrimp-hightlight-img-name">
         <div className="shrimp-hightlight-img">
-          <img src={Logo26} alt="" width="100%" height="100%" />
+          <img src={Logo26} alt="" width="103%" height="100%" />
         </div>
         <div className="shrimp-hightlight-name">
-          <span>ANTI STRESS-VB PRO</span>
+          <span>Tôm sú</span>
         </div>
         <div className="shrimp-hightlight-img">
-          <img src={Logo27} alt="" width="100%" height="100%" />
+          <img src={Logo27} alt="" width="103%" height="100%" />
         </div>
         <div className="shrimp-hightlight-name">
-          <span>YUCCA MAX</span>
+          <span>Litopenaeus setiferus</span>
         </div>
       </div>
     </div>

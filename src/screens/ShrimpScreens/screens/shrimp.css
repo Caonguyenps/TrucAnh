@@ -117,12 +117,12 @@
 }
 .shrimp-img-name-1 {
   height: 330px;
-  width: 330px;
+  width: 280px;
   border: 2px solid #08999c;
   border-radius: 10px;
 }
 .shrimp-img-1 {
-  width: 325px;
+  width: 275px;
   height: 280px;
   border-radius: 10px;
   margin: 0 auto;
@@ -139,11 +139,56 @@
   border-radius: 5px;
   margin-left: 12px;
   height: 35px;
-  width: 300px;
+  width: 253px;
   text-align: center;
 }
 .shrimp-name-1:hover {
   cursor: pointer;
   background-color: #e3a963;
   color: #08999c;
+}
+
+.product-category-title-1 {
+  margin-top: 25px;
+  color: #6b6b6b;
+  font-weight: 450;
+  font-size: 18px;
+}
+.product-category-title {
+  color: #6b6b6b;
+  font-weight: 450;
+  font-size: 18px;
+}
+.product-category-title:hover {
+  cursor: pointer;
+  color: #fb961b;
+}
+.product-category-title-1:hover {
+  cursor: pointer;
+  color: #fb961b;
+}
+
+.product-category {
+  width: 255px;
+  margin-bottom: 40px;
+  padding: 20px;
+}
+.product-category-title-1 {
+  margin-top: 25px;
+  color: #6b6b6b;
+  font-weight: 450;
+  font-size: 18px;
+}
+.product-category-title {
+  color: #6b6b6b;
+  font-weight: 450;
+  font-size: 18px;
+}
+.product-category-title:hover {
+  cursor: pointer;
+  color: #fb961b;
+}
+.product-category-title-1:hover {
+  cursor: pointer;
+  color: #fb961b;
 }

@@ -1,4 +1,5 @@
 import React from "react";
+import "./product.css";
 import Logo26 from "../../../assets/image/26.png";
 import Logo27 from "../../../assets/image/27.png";
 
@@ -14,7 +15,7 @@ export default function ProductHightlightComponents() {
           <img src={Logo26} alt="" width="100%" height="100%" />
         </div>
         <div className="product-hightlight-name">
-          <span>ANTI STRESS-VB PRO</span>
+          <span>ANTI STRESS-VB</span>
         </div>
         <div className="product-hightlight-img">
           <img src={Logo27} alt="" width="100%" height="100%" />

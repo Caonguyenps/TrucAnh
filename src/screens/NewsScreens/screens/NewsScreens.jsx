@@ -38,6 +38,7 @@ export default function NewsScreens() {
           data={listsCategory}
           handleClickCategory={handleClickCategory}
         />
+
         <div className="row">{showListsNews2}</div>
       </div>
       <div className="wrap-btn-intro">

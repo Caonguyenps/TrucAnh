@@ -18,6 +18,9 @@ export default function AchievementsScreens() {
     <div>
       <BannerComponents banner={Logo1} title="THÀNH TÍCH" />
       <div className="wrap-body">
+        <div className="news-title-top">
+          <span>Thành tích</span>
+        </div>
         <div className="achievement">
           <div className="row">
             <div className="col-4">

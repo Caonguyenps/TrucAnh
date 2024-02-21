@@ -2,75 +2,108 @@
   "listsproduct2": [
     {
       "image": "https://visinhckc.vn/wp-content/uploads/2018/07/z2347221909750_b911cb561a5a0c640fe706bbdbe72f94.png",
-      "name": "CALCIMAX - 98 vnđ",
+      "name": "CALCIMAX - 90 vnđ",
       "id": "1",
-      "element": ["Protein thô", "Bacillus subtilis"],
-      "uses": " TA-BINDER giúp bao bọc thức ăn với các loại vitamin và thuốc phòng trị bệnh tôm, cá không bị thất thoát trong nước. Cung cấp Acid béo không no giúp tôm cá khỏe mạnh thích ứng với điều kiện môi trường.",
-      "amount": ["sdfsf", "sgdsgdysgdsugud"]
+      "element": [
+        "Vitamin C (Ascorbate polyphosphate)....100 g",
+        "Acid citric ………………....……...………200 g",
+        "Chất mang vừa đủ…….…….…...………..1 kg",
+        "Vitamin A.............................5.000.000 UI",
+        "Vitamin D3...........................1.500.000 UI",
+        "Vitamin B12............................10.000 mg",
+        "Vitamin C................................10.000 mg",
+        "Vitamin E  ....................................400 UI",
+        "Calcium Pantothenate.....................400 UI"
+      ],
+      "uses": "TA-BINDER giúp bao bọc thức ăn với các loại vitamin và thuốc phòng trị bệnh tôm.",
+      "amount": ["Dùng 1-2ml/kg thức ăn"]
     },
     {
       "image": "https://bizweb.dktcdn.net/100/441/262/products/yucca-max.jpg?v=1640940996310",
       "name": "CALCIMAX - 300 vnđ",
       "id": "2",
       "element": ["Protein thô", "Bacillus subtilis"],
-      "uses": " TA-BINDER giúp bao bọc thức ăn với các loại vitamin và thuốc phòng trị bệnh tôm, cá không bị thất thoát trong nước. Cung cấp Acid béo không no giúp tôm cá khỏe mạnh thích ứng với điều kiện môi trường.",
-      "amount": ["sdfsf", "sgdsgdysgdsugud", "djsh"]
+      "uses": "Cung cấp Acid béo không no giúp tôm cá khỏe mạnh thích ứng với điều kiện môi trường.",
+      "amount": ["Dùng 1-2ml/1 lít nước"]
     },
     {
-      "image": "https://hoasinhvietnam.vn/sites/default/files/yuca.png",
+      "image": "data:image/jpeg;base64,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",
       "name": "YUCCA MAX - 800 vnđ",
       "id": "3",
-      "element": ["Protein thô", "Bacillus subtilis"],
-      "uses": " TA-BINDER giúp bao bọc thức ăn với các loại vitamin và thuốc phòng trị bệnh tôm, cá không bị thất thoát trong nước. Cung cấp Acid béo không no giúp tôm cá khỏe mạnh thích ứng với điều kiện môi trường.",
-      "amount": ["sdfsf", "sgdsgdysgdsugud", "djsh"]
+      "element": [
+        "Vitamin C (Ascorbate polyphosphate)....100 g",
+        "Acid citric ………………....……...………200 g",
+        "Chất mang vừa đủ…….…….…...………..1 kg"
+      ],
+      "uses": "Cung cấp Acid béo không no giúp tôm cá khỏe mạnh thích ứng với điều kiện môi trường.",
+      "amount": ["Dùng 1-2ml/1 lít nước", "Dùng 1-2ml/kg thức ăn"]
     },
     {
       "image": "https://vibo.com.vn/vnt_upload/product/09_2020/ANTI_STRESS_pro_1_kg_TOM_VB1_up_01.jpg",
       "name": "CALCIMAX - 100 vnđ",
       "id": "4",
       "element": ["Protein thô", "Bacillus subtilis"],
-      "uses": " TA-BINDER giúp bao bọc thức ăn với các loại vitamin và thuốc phòng trị bệnh tôm, cá không bị thất thoát trong nước. Cung cấp Acid béo không no giúp tôm cá khỏe mạnh thích ứng với điều kiện môi trường.",
-      "amount": ["sdfsf", "sgdsgdysgdsugud", "djsh"]
+      "uses": "Cung cấp Acid béo không no giúp tôm cá khỏe mạnh thích ứng với điều kiện môi trường.",
+      "amount": ["1 lít YUCCA MAX/4.000-5.000m3 nước"]
     },
     {
       "image": "https://vibo.com.vn/vnt_upload/product/08_2021/ANTI_STRESS_VB_pro_1KG_LINE_1_mk_02.png",
-      "name": "ANTI STRESS-VB PRO - 780 vnđ",
+      "name": "ANTI STRESS-VB - 780 vnđ",
       "id": "5",
       "element": ["Protein thô", "Bacillus subtilis"],
-      "uses": " TA-BINDER giúp bao bọc thức ăn với các loại vitamin và thuốc phòng trị bệnh tôm, cá không bị thất thoát trong nước. Cung cấp Acid béo không no giúp tôm cá khỏe mạnh thích ứng với điều kiện môi trường.",
-      "amount": ["sdfsf", "sgdsgdysgdsugud", "djsh"]
+      "uses": " TA-BINDER giúp bao bọc thức ăn với các loại vitamin và thuốc phòng trị bệnh tôm.",
+      "amount": ["1 lít YUCCA MAX/4.000-5.000m3 nước"]
     },
     {
-      "image": "https://thuocthuysannguyenngoc.com/upload/sanpham/465964_271.72413793103x400.gif",
-      "name": "CALCIMAX - 100 vnđ",
+      "image": "https://mirchemicalsbd.com/wp-content/uploads/2022/08/yucca-max-430x494.webp",
+      "name": "CALCIMAX - 999 vnđ",
       "id": "6",
       "element": ["Protein thô", "Bacillus subtilis"],
-      "uses": " TA-BINDER giúp bao bọc thức ăn với các loại vitamin và thuốc phòng trị bệnh tôm, cá không bị thất thoát trong nước. Cung cấp Acid béo không no giúp tôm cá khỏe mạnh thích ứng với điều kiện môi trường.",
-      "amount": ["sdfsf", "sgdsgdysgdsugud", "djsh"]
+      "uses": "Cung cấp Acid béo không no giúp tôm cá khỏe mạnh thích ứng với điều kiện môi trường.",
+      "amount": ["Trộn 3 g / kg thức ăn, ngày 2-3 lần"]
     },
     {
-      "image": "https://thuysantamlong.com/wp-content/uploads/2019/10/H%E1%BA%A5p-thu-kh%C3%AD-%C4%91%E1%BB%99c-YUCCA-MAX-L1.png",
-      "name": "CALCIMAX - 100 vnđ",
+      "image": "https://canuocngot.vn/wp-content/uploads/2023/05/Hi-Yucca-zeo-hat.jpg",
+      "name": "CALCIMAX - 1.000 vnđ",
       "id": "7",
       "element": ["Protein thô", "Bacillus subtilis"],
-      "uses": " TA-BINDER giúp bao bọc thức ăn với các loại vitamin và thuốc phòng trị bệnh tôm, cá không bị thất thoát trong nước. Cung cấp Acid béo không no giúp tôm cá khỏe mạnh thích ứng với điều kiện môi trường.",
-      "amount": ["sdfsf", "sgdsgdysgdsugud", "djsh"]
+      "uses": "Cung cấp Acid béo không no giúp tôm cá khỏe mạnh thích ứng với điều kiện môi trường.",
+      "amount": ["Trộn 3 g / kg thức ăn, ngày 2-3 lần"]
     },
     {
-      "image": "https://hoasinhvietnam.vn/sites/default/files/oxygen.jpg",
-      "name": "CALCIMAX - 100 vnđ",
+      "image": "https://lh3.googleusercontent.com/proxy/RPI12FRmLjcUv77tW8uthVg6jqUl0yWGlezCAWapaIMXHv9vDN9GiyRaQJOa-hSnIB4nDrWKTp2onhrkY8LXjqkYxxrpSk2UNAAMKly1fFmx4wIgw7SqPIDF65o",
+      "name": "CALCIMAX - 199 vnđ",
       "id": "8",
       "element": ["Protein thô", "Bacillus subtilis"],
-      "uses": " TA-BINDER giúp bao bọc thức ăn với các loại vitamin và thuốc phòng trị bệnh tôm, cá không bị thất thoát trong nước. Cung cấp Acid béo không no giúp tôm cá khỏe mạnh thích ứng với điều kiện môi trường.",
-      "amount": ["sdfsf", "sgdsgdysgdsugud", "djsh"]
+      "uses": " TA-BINDER giúp bao bọc thức ăn với các loại vitamin và thuốc phòng trị bệnh tôm.",
+      "amount": ["Dùng 1-2ml/kg thức ăn"]
     },
     {
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdOOUfKhWZUkHLMkIg5sBjAyIXEyBm65A5MQ&usqp=CAU",
-      "name": "CALCIMAX - 100 vnđ",
+      "name": "CALCIMAX - 699 vnđ",
       "id": "9",
-      "element": ["Protein thô", "Bacillus subtilis"],
-      "uses": " TA-BINDER giúp bao bọc thức ăn với các loại vitamin và thuốc phòng trị bệnh tôm, cá không bị thất thoát trong nước. Cung cấp Acid béo không no giúp tôm cá khỏe mạnh thích ứng với điều kiện môi trường.",
-      "amount": ["sdfsf", "sgdsgdysgdsugud", "djsh"]
+      "element": [
+        "Vitamin C (Ascorbate polyphosphate)....100 g",
+        "Acid citric ………………....……...………200 g",
+        "Chất mang vừa đủ…….…….…...………..1 kg"
+      ],
+      "uses": " Nâng cao sức đề kháng, tăng sức chịu đựng stress cho tôm.",
+      "amount": ["1 kg/ 300-400 kg thức ăn."]
+    },
+    {
+      "image": "https://www.sunmart.ph/cdn/shop/products/VBgrape.png?v=1683613040",
+      "name": "CALCIMAX - 120 vnđ",
+      "id": "10",
+      "element": [
+        "Vitamin A.............................5.000.000 UI",
+        "Vitamin D3...........................1.500.000 UI",
+        "Vitamin B12............................10.000 mg",
+        "Vitamin C................................10.000 mg",
+        "Vitamin E  ....................................400 UI",
+        "Calcium Pantothenate.....................400 UI"
+      ],
+      "uses": "khắc phục hiện tượng cong thân, đỏ thân, đục cơ do bị stress, kém ăn,…",
+      "amount": ["1 kg/ 300-400 kg thức ăn."]
     }
   ]
 }
