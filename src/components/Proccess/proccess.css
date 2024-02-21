@@ -1,0 +1,60 @@
+.proccess-wrap-img {
+  width: 100%;
+  height: 250px;
+  position: relative;
+}
+
+.proccess-img {
+  width: 100%;
+  height: 250px;
+}
+.proccess-img img {
+  object-fit: cover;
+  border-radius: 15px 15px 0px 0px;
+}
+.proccess-logo {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  border-radius: 50%;
+  padding: 20px;
+  position: absolute;
+  top: 80%;
+  left: 36%;
+}
+.proccess-content {
+  padding: 20px;
+  height: 280px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  text-align: center;
+}
+.proccess-title {
+  margin-top: 40px;
+  color: #08999c;
+  font-size: 30px;
+  font-weight: 500;
+}
+.proccess-description {
+  font-size: 20px;
+  color: #656565;
+  margin-top: 15px;
+  height: 50px;
+}
+.wrap-proccess-btn {
+  width: 15%;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+.proccess-btn {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background-color: #08999c;
+  padding: 12px;
+  color: white;
+}
+.proccess-btn:hover {
+  cursor: pointer;
+  color: #08999c;
+  background-color: #f6b34f;
+}

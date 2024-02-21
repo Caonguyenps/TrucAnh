@@ -1,0 +1,30 @@
+.news-title-top {
+  color: #08999c;
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+}
+.news {
+  margin-top: 25px;
+}
+.product {
+  margin-top: 40px;
+}
+.proccess {
+  margin-top: 40px;
+}
+.proccess-title-top {
+  color: #08999c;
+  font-weight: 700;
+  font-size: 32px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.product-title-top {
+  color: #08999c;
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}

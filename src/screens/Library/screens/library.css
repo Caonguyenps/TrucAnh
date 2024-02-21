@@ -1,0 +1,18 @@
+.btn-title {
+  font-weight: 500;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  padding-top: 5px;
+}
+.btn-library-title {
+  background: #08999c;
+  width: 223px;
+  height: 44px;
+  border-radius: 10px;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+.btn-library-title :hover {
+  cursor: pointer;
+}

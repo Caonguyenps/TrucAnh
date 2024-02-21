@@ -1,0 +1,149 @@
+.shrimp {
+  margin-bottom: 80px;
+}
+.wrap-shrimp-contact {
+  width: 80%;
+  height: 220px;
+  position: relative;
+  border-radius: 10px;
+}
+.img {
+  width: 100%;
+  height: 100%;
+}
+.wrap-shrimp-contact:hover {
+  cursor: pointer;
+}
+.wrap-shrimp-contact .img img {
+  object-fit: cover;
+  border-radius: 10px;
+}
+.shrimp-contact-bg {
+  position: absolute;
+  top: 0;
+  background-color: rgba(8, 153, 156, 0.66);
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+.shrimp-contact-content-bg {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  top: 20%;
+  border-radius: 10px;
+}
+.fa-phone-volume {
+  color: white;
+  font-size: 40px;
+}
+.shrimp-title-contact {
+  color: white;
+  font-size: 26px;
+  font-weight: 500;
+}
+.shrimp-title-contact-1 {
+  color: white;
+  font-size: 15px;
+}
+
+.shrimp-title-contact-2 {
+  color: white;
+  font-size: 26px;
+  padding-top: 15px;
+  font-weight: 500;
+}
+.fa-angle-right {
+  float: right;
+}
+.shrimp-category {
+  width: 255px;
+  margin-bottom: 40px;
+  padding: 20px;
+}
+.shrimp-category-title-1 {
+  margin-top: 25px;
+  color: #6b6b6b;
+  font-weight: 450;
+  font-size: 18px;
+}
+.shrimp-category-title {
+  color: #6b6b6b;
+  font-weight: 450;
+  font-size: 18px;
+}
+.shrimp-category-title:hover {
+  cursor: pointer;
+  color: #fb961b;
+}
+.shrimp-category-title-1:hover {
+  cursor: pointer;
+  color: #fb961b;
+}
+.shrimp-hightlight-name {
+  font-weight: 700;
+  font-size: 13px;
+  text-align: center;
+  margin-top: 6px;
+}
+.shrimp-hightlight-name:hover {
+  cursor: pointer;
+}
+.shrimp-hightlight-img {
+  border-radius: 10px;
+  width: 244px;
+  height: 272px;
+}
+.shrimp-hightlight {
+  width: 255px;
+  margin-top: 40px;
+}
+.shrimp-hightlight-title {
+  background-color: #08999c;
+  width: 100%;
+  height: 45px;
+  border-radius: 10px 10px 0px 0px;
+  text-align: center;
+  padding: 12px 0px 12px 0px;
+}
+.shrimp-hightlight-title span {
+  color: white;
+  font-weight: 500;
+  font-size: 16px;
+}
+.shrimp-hightlight-img-name {
+  border: 2px solid #08999c;
+}
+.shrimp-img-name-1 {
+  height: 330px;
+  width: 330px;
+  border: 2px solid #08999c;
+  border-radius: 10px;
+}
+.shrimp-img-1 {
+  width: 325px;
+  height: 280px;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+.shrimp-img-1 img {
+  border-radius: 10px 10px 0px 0px;
+}
+.shrimp-name-1 {
+  color: white;
+  margin-top: 10px;
+  font-weight: 600;
+  font-size: 20px;
+  background-color: #08999c;
+  border-radius: 5px;
+  margin-left: 12px;
+  height: 35px;
+  width: 300px;
+  text-align: center;
+}
+.shrimp-name-1:hover {
+  cursor: pointer;
+  background-color: #e3a963;
+  color: #08999c;
+}

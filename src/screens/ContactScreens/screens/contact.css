@@ -1,0 +1,102 @@
+.btn-title {
+  font-weight: 500;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  padding-top: 5px;
+}
+.btn-contact-title {
+  background: #08999c;
+  width: 223px;
+  height: 44px;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+.btn-contact-title :hover {
+  cursor: pointer;
+}
+.title-contact {
+  color: #08999c;
+  width: 197px;
+  height: 58px;
+  font-size: 32px;
+  font-weight: 500;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+.content-contact-1 {
+  color: #000000;
+  font-weight: 700;
+  font-size: 20px;
+  width: 574px;
+  height: 27px;
+  margin-top: 30px;
+}
+.contact {
+  margin-top: 80px;
+}
+.content-contact {
+  color: #989898;
+}
+.content-contact span {
+  margin-left: 15px;
+  font-weight: 450;
+  font-size: 18px;
+}
+.content-title-contact {
+  margin-top: 20px;
+}
+.title-contact-table span {
+  color: #08999c;
+  font-weight: 500;
+  font-size: 32px;
+  width: 800px;
+  height: 45px;
+}
+.title-contact-table {
+  margin-top: 80px;
+  text-align: center;
+}
+.wrap-form {
+  padding: 50px;
+}
+.btn-contact {
+  float: right;
+  background-color: #08999c;
+  width: 180px;
+  height: 40px;
+  border-radius: 10px;
+  position: relative;
+}
+.btn-contact span {
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  position: absolute;
+  left: 38%;
+  top: 10%;
+}
+.btn-contact:hover {
+  cursor: pointer;
+  background-color: #fbbb63;
+}
+.btn-contact:hover span {
+  color: #08999c;
+}
+.input-information-contact-1 {
+  margin-top: 20px;
+}
+.input-information-contact-2 input {
+  margin-top: 20px;
+  height: 94px;
+}
+.btn-information-contact {
+  margin-top: 20px;
+}
+.img-contact {
+  width: 500px;
+  height: 270px;
+}
+.img-contact img {
+  border-radius: 10px;
+}
