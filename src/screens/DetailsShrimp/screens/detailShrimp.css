@@ -37,7 +37,19 @@
   font-weight: 700;
 }
 .details-product-img {
+  margin: 0 auto;
+  margin-top: 30px;
+  width: 500px;
+  height: 500px;
   text-align: center;
+  border: 3px solid #32aaad;
+  border-radius: 10px;
+}
+.details-product-img img {
+  margin: 0 auto;
+  width: 495px;
+  height: 495px;
+  border-radius: 10px;
 }
 .erdetails {
   margin-top: 40px;

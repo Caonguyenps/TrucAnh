@@ -30,7 +30,7 @@ const ContactFormComponents = () => {
               type="email"
               class="form-control"
               id="exampleFormControlInput1"
-              placeholder="Email"
+              placeholder="Email (*)"
             />
           </div>
         </div>

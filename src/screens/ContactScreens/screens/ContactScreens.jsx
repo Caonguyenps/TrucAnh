@@ -20,7 +20,7 @@ export default function ContactScreens() {
             <div className="col-5">
               <div className="img-contact">
                 <img
-                  src="https://trucanh.com.vn/Content/UI/imgconsultancy/trai_giong.JPG"
+                  src="https://i.ytimg.com/vi/5Tfl9CCPYYY/maxresdefault.jpg"
                   alt=""
                   width="100%"
                   height="100%"
@@ -57,13 +57,13 @@ export default function ContactScreens() {
             </div>
           </div>
           <div className="title-contact">
-            <span>Chi nhánh</span>
+            <span>Chi nhánh I</span>
           </div>
           <div className="row">
             <div className="col-5">
               <div className="img-contact">
                 <img
-                  src="https://trucanh.com.vn/Content/UI/imgconsultancy/trai_giong_trong_nha.JPG"
+                  src="https://images.vietnamworks.com/company_profile/67316.jpg"
                   alt=""
                   width="100%"
                   height="100%"

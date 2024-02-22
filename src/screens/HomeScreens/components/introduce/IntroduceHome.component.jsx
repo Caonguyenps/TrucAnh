@@ -10,7 +10,7 @@ export default function IntroduceHomeComponent() {
     history.push(path.INTRODUCE);
   };
   return (
-    <div className="wrap-body">
+    <div className="">
       <div className="introduce">
         <div className="row">
           <div className="col-6">

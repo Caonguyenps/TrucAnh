@@ -29,35 +29,37 @@ export default function HomeScreens() {
     );
   });
   return (
-    <div className="home-screens">
-      <BannerHomeComponent />
-      <IntroduceHomeComponent />
-      <div className="wrap-body">
-        <div className="news">
-          <div className="news-title-top">
-            <span>Tin tức</span>
+    <div className="wrap-body">
+      <div className="home-screens">
+        <BannerHomeComponent />
+        <IntroduceHomeComponent />
+        <div className="xxxxxxxxxx">
+          <div className="news">
+            <div className="news-title-top">
+              <span>Tin tức</span>
+            </div>
+            <div className="row">{showLists}</div>
           </div>
-          <div className="row">{showLists}</div>
         </div>
-      </div>
-      <BannerHome1 />
-      <div className="wrap-body">
-        <div className="proccess">
-          <div className="proccess-title-top">
-            <span>Quy trình nuôi tôm Trúc Anh</span>
+        <BannerHome1 />
+        <div className="">
+          <div className="proccess">
+            <div className="proccess-title-top">
+              <span>Quy trình nuôi tôm Trúc Anh</span>
+            </div>
+            <ProccessComponents />
           </div>
-          <ProccessComponents />
         </div>
-      </div>
-      <div className="wrap-body">
-        <div className="product">
-          <div className="product-title-top">
-            <span>Sản phẩm nuôi tôm trúc anh</span>
+        <div className="">
+          <div className="product">
+            <div className="product-title-top">
+              <span>Sản phẩm nuôi tôm trúc anh</span>
+            </div>
+            <div className="row">{showListsProduct}</div>
           </div>
-          <div className="row">{showListsProduct}</div>
         </div>
+        <BannerHome2 />
       </div>
-      <BannerHome2 />
     </div>
   );
 }
