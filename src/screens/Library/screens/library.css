@@ -16,3 +16,6 @@
 .btn-library-title :hover {
   cursor: pointer;
 }
+.item-category:hover {
+  cursor: pointer;
+}

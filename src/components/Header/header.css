@@ -154,3 +154,7 @@
 .icon-header i {
   margin-right: 10px;
 }
+
+.header-bottom-right span:hover {
+  text-decoration: underline;
+}
